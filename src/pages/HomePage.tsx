@@ -10,7 +10,7 @@ const pricingPlans = [
     price: '$39.99',
     features: [
       '$199 Set up fee',
-      '1 Bussniness Email Adress',
+      '1 Busniness Email Adress',
       '4 Pages Website',
       'Responsive Design',
       'Basic SEO Setup',
