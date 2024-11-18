@@ -31,7 +31,6 @@ const pricingPlans = [
       '7 Pages Website',
       'Advanced Design',
       'Full SEO Package',
-      'Custom Forms',
       'Analytics Integration',
       'Social Media Integration',
     ],
@@ -41,7 +40,7 @@ const pricingPlans = [
     title: 'Enterprise Growth Bundle',
     price: '$449',
     features: [
-      '$499 Set up fee',
+      '$999 Set up fee',
       'Includes everything in the Business Growth SEO Bundle ',
       'Unlimited Pages',
       'Custom Design',
@@ -50,6 +49,7 @@ const pricingPlans = [
       'Custom Features',
       'Priority Support',
       'Performance Optimization',
+      'Custom Forms',
     ],
   },
 ];
